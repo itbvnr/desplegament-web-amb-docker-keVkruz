@@ -8,7 +8,7 @@ Descarregar de:  https://docs.docker.com/desktop/setup/install/linux/
 
 La màquina virtual requereix virtualització de hardware VT-x/AMD-V
 
-## 🌟 Executar el primer docker
+## 🌟 Executar el primer docker (edit para commit)
 `docker run -d --name apache-container -p 8181:80 httpd:latest`
 
 ## 🌟 Executar el primer **Dockerfile**
